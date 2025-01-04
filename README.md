@@ -9,6 +9,17 @@
    ╚═════╝ ╚═╝     ╚═╝     ╚═╝
   </pre>
 
+  <br>
+
+
+<p>
+  <video width="300" height="300" autoplay loop muted>
+    <source src="./media/media.mp4" type="video/mp4">
+  </video>
+</p>
+
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=[Owl+Unit+2B:+Boot+Sequence+Initiated];[BLACK+BOX+TEMPERATURE:+NORMAL];[MEMORY+UNIT:+GREEN];[TACTICAL+SUPPORT:+ONLINE];[EXECUTING+PROTOCOL]" />
 </p>
